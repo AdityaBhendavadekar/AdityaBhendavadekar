@@ -86,7 +86,11 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AdityaBhendavadekar&theme=nightowl&show_icons=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaBhendavadekar&theme=nightowl&hide_border=false" alt="AdityaBhendavadekar streak" />
+  
 </td>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AdityaBhendavadekar&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>

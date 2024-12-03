@@ -89,7 +89,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
   
 </td>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)  !-->
 
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AdityaBhendavadekar&theme=nightowl&hide_border=false&langs_count=10"/>

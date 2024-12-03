@@ -85,7 +85,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AdityaBhendavadekar&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaBhendavadekar&theme=nightowl&hide_border=false" alt="AAL1X streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaBhendavadekar&theme=nightowl&hide_border=false" alt="AdityaBhendavadekar streak" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AdityaBhendavadekar&theme=nightowl&hide_border=false&langs_count=10"/>
@@ -99,7 +99,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/AdityaBhendavadekar/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>

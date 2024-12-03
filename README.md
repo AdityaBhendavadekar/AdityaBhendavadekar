@@ -51,13 +51,13 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 
 ###### Backend & Frameworks:
-![NodeJS](https://img.shields.io/badge/nodejs-%236DB33F.svg?style=for-the-badge&logo=nodejs&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.JS-%236DB33F.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 <!-- #### ML/DL -->
 
 ###### Database Management:
-![MySQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![FireBase](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![FireBase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ###### Development Tools:

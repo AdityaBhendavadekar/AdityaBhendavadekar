@@ -52,6 +52,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 ###### Backend & Frameworks:
 ![NodeJS](https://img.shields.io/badge/node.JS-%236DB33F.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/-flask?style=flat&logo=flask&label=flask)&nbsp;
 
 <!-- #### ML/DL -->
 

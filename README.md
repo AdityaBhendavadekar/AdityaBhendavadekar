@@ -8,8 +8,7 @@
 
 I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and app developer, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
-  - *React.js*
-  - *React-Native*
+  - *Go Lang*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🏞️ trekking.

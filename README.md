@@ -6,7 +6,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and app developer, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+I am a **Computer Science** student, currently at final year of my degree, I am expanding my knowledge in backend development and devops tools. I have experience as a web developer and app developer, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
   - *Go Lang*
 - 🚀 I’m eager to join new projects.
